@@ -1,4 +1,5 @@
-- 👋# Hi, I’m SUNKANMI ADRIAN
+- # HELLO,
+- ## I’m SUNKANMI ADRIAN
 - 👀 I’m interested in Taking roles of a Data Analyst in your Projects/Company
 - 🌱 I’m a Data Analyst who, have undertaken different projects in different sectors that were succesfully executed.
 - 💞️ I’m looking to collaborate with you on both Old and New Projetcs
